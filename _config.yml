@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Mohammed Shariq Kazi
 
 # Your name to show in the footer
-author: Some Person
+author: Mohammed Shariq Kazi
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,9 +22,9 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Beautiful Jekyll: "https://twitter.com/shariqkazi/"
+    - Learn markdown: "https://www.instagram.com/shariq.kazi/"
+  Author's home: "https://www.instagram.com/shariq.kazi/"
 
 ################
 # --- Logo --- #
